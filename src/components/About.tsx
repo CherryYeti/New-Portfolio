@@ -116,7 +116,7 @@ export default function About() {
             applications with Docker. I'm currently expanding my skills towards
             learning Proxmox and Kubernetes. Outside of tech, you'll find me
             playing Final Fantasy, studying Japanese, or getting up at 6 AM to
-            watch Formula 1 races. PST baby! がんばれ、広島カープ！
+            watch Formula 1 races. PST baby! 頑張れ、広島カープ！
           </p>
         </div>
       </div>
