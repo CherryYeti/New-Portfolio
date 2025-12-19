@@ -36,15 +36,15 @@ function Projects() {
         </div>
         <div className="md:w-1/2 h-auto relative bg-[#f5f0ff] border-2 border-[#8572b1] rounded-xl shadow-[0_0.75em_0_0_#d2c4f9] transition-all duration-150 hover:translate-y-1 hover:shadow-[0_0.5em_0_0_#d2c4f9] active:translate-y-3 active:shadow-none overflow-hidden">
           <a
-            href="https://github.com/cherryyeti/nvoid"
+            href="https://codeberg.org/CherryYeti/PkgHarbor"
             target="_blank"
             rel="noopener noreferrer"
             className="block"
           >
             <Card
-              imagePath={`${import.meta.env.BASE_URL}images/nvoid.png`}
-              title="NVoid"
-              description="NVoid is a calculator app built in flutter that is themed after the Nothing Phone."
+              imagePath={`${import.meta.env.BASE_URL}images/icon.png`}
+              title="PkgHarbor"
+              description="PkgHarbor is a program that lets you download and unpack NoPayStation games directly to your PC"
             />
           </a>
         </div>
